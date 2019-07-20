@@ -60,7 +60,7 @@
             android:layout_marginRight="20dp"
             android:gravity="center"
             android:padding="15dp"
-            android:text="INSTALL PacMan"
+            android:text="INSTALL FridaLoader"
             android:textAllCaps="true"
             android:textColor="#ffffff" />
 
